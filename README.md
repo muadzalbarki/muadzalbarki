@@ -1,7 +1,6 @@
 # 農 LightYagami
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p4dm50bHR0aGl0dG1xbjBlbzg3eWhybjFscTU3ZmJuczYxYWRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgpSZzZWHeMLu/giphy.gif)
-
+<img src="https://link-ke-animated-emoji.gif" width="300" height="200" alt="Deskripsi GIF">
 "Hello 🙌🙌, my name is Mu'adz Al Barki, you can call me Mu'adz 😎. Light Yagami is my favorite villain character 👹."
 
 - 🔭 I’m currently working on ...
