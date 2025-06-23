@@ -1,8 +1,8 @@
-# 農 LightYagami
+# 農 Mikoto
 
 <img src="IMG/Fox.gif" width="1080" height="" alt="GIF">
 
-"Hello 🙌🙌, my name is Mu'adz Al Barki, you can call me Mu'adz 😎. character 👹."
+"Hello 🙌🙌, my name is Mu'adz Al Barki, you can call me Mu'adz 😎. Fox is my favorite animal. Because, in Japanese folklore, foxes are often depicted as having high intelligence and long lifespans 🦊."
 
 ### 🔥🔥🔥 Language Still on Fire 🔥🔥🔥
 
