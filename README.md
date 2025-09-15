@@ -2,9 +2,7 @@
 
 <img src="IMG/Fox.gif" width="1080" height="" alt="GIF">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/muadzalbarki/count.svg?"  />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muadzalbarki&label=Profile%20views&color=f56e00&style=plastic" alt="muadzalbarki" /> </p>
 
 "Hello 🙌🙌, my name is Mu'adz Al Barki, you can call me Mu'adz 😎. Fox is my favorite animal. Because, in Japanese folklore, foxes are often depicted as having high intelligence and long lifespans 🦊."
 
